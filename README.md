@@ -1,4 +1,4 @@
-# Waleed — Desktop & AI-Agent Developer
+# Waleed — AI Agent Engineer
 
 > I build things that run locally: voice agents, desktop apps, and automation tools.
 
