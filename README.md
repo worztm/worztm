@@ -29,6 +29,9 @@ Desktop app that hunts down and crushes junk files to reclaim disk space.
 - Fast scanning engine, safe deletion
 - Built with Wails + TypeScript
 
+### 🦈 [sharknote](https://github.com/worztm/sharknote) — Obsidian-style Notes Desktop App
+Notes app with a knowledge graph, bidirectional links and export. Wails v3 + Go + React + SQLite, styled with shadcn/ui.
+
 ### 🔍 [web-tech-detector](https://github.com/worztm/web-tech-detector) — Website Tech Stack Scanner
 Detect the technologies behind any website and generate clean HTML reports.
 
