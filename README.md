@@ -1,4 +1,4 @@
-# Waleed — Agentic systems Engineer
+# Waleed — Builder
 
 > I build things that run locally: voice agents, desktop apps, and automation tools.
 
