@@ -1,57 +1,110 @@
-# Waleed — Software Engineer
+<div align="center">
 
-> I build apps that people use every day: desktop apps, web apps, and automation tools.
+<a href="https://github.com/worztm">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22d3ee&height=220&section=header&text=WALEED&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Go%20%7C%20TypeScript%20%7C%20AI&descAlignY=62&descSize=18&animation=fadeIn" alt="Waleed profile header" width="100%" />
+</a>
 
-I care about shipping finished products — native desktop apps, fast web tools, and automation that just works. Everything below is an app I designed, built, and released. Play with it, fork it, or send me a bug.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+software+people+actually+use.;Local+AI.+Native+apps.+Useful+automation.;From+an+idea+to+a+shipped+product." alt="Typing introduction" />
+</a>
 
----
+<p>
+  <a href="https://github.com/worztm?tab=followers"><img src="https://img.shields.io/github/followers/worztm?label=Followers&style=flat-square&color=22d3ee&labelColor=0f172a" alt="GitHub followers" /></a>
+  <a href="https://github.com/worztm?tab=repositories"><img src="https://img.shields.io/github/stars/worztm?affiliations=OWNER&style=flat-square&color=facc15&labelColor=0f172a&label=Stars" alt="GitHub stars" /></a>
+  <a href="https://github.com/worztm"><img src="https://komarev.com/ghpvc/?username=worztm&style=flat-square&color=22d3ee&label=Profile+views" alt="Profile views" /></a>
+</p>
 
-## 🚀 Flagship Apps
+</div>
 
-### 🎙️ [JARVIS](https://github.com/worztm/jarvis) — Desktop Voice Assistant
-Iron-Man-style desktop voice assistant app. **100% local, zero cloud, zero subscriptions.**
-- `whisper.cpp` (tiny.en GGML) for on-device speech recognition
-- Pure-Go intent router with fuzzy matching — 160+ sites, 40+ apps, filesystem indexing
-- Windows SAPI voice output, live HUD in React
-- Built with Wails v2 (Go + WebView2)
-- **Speech never leaves the machine** — audio is captured in Go, transcribed on localhost
+## The short version
 
-### 🌊 [wavecursor](https://github.com/worztm/wavecursor) — Gesture Cursor Control
-Control your computer cursor with hand gestures in front of your webcam.
-- Computer-vision hand tracking
-- Built on Wails v3 (Go) — cross-platform desktop app
-- No extra hardware; just your webcam
+I am Waleed, a software engineer who likes building complete products instead of unfinished demos.
 
-### 🗑️ [cache_crusher](https://github.com/worztm/cache_crusher) — Junk File Crusher
-Desktop app that hunts down and crushes junk files to reclaim disk space.
-- Fast scanning engine, safe deletion
-- Built with Wails + TypeScript
+My favorite work lives at the edge of software and hardware: local AI that respects privacy, native desktop apps that feel fast, and small tools that remove friction from everyday work. I design the experience, build the system, and ship the result.
 
-### 🦈 [sharknote](https://github.com/worztm/sharknote) — Obsidian-style Notes Desktop App
-Notes app with a knowledge graph, bidirectional links and export. Wails v3 + Go + React + SQLite, styled with shadcn/ui.
+```text
+Build locally       Ship often       Keep it useful
+```
 
-### 🔍 [web-tech-detector](https://github.com/worztm/web-tech-detector) — Website Tech Stack Scanner
-Detect the technologies behind any website and generate clean HTML reports.
+## What I am building
 
----
+| Focus | What that looks like |
+| --- | --- |
+| Local AI | Voice assistants, on-device inference, and privacy-first workflows |
+| Desktop software | Fast Windows apps with Go, Wails, WebView2, and native APIs |
+| Product engineering | React interfaces, TypeScript systems, APIs, and automation |
+| Creative tools | Computer vision, gesture control, visualizers, and playful experiments |
 
-## 🎲 More Apps I've Built
+## Featured builds
 
-| App | What it does |
-|---|---|
-| 🎵 [pymusic](https://github.com/worztm/pymusic) | Native desktop music player — pure Python + Tkinter, dark neon glass theme, live visualizer |
-| 📝 [notepad](https://github.com/worztm/notepad) | Minimalist desktop markdown notepad — Wails v3 + Go + React + TypeScript |
-| 🐦 [reverse_tweets](https://github.com/worztm/reverse_tweets) | AI tweet roaster — live at [tweetsreverse.lol](https://tweetsreverse.lol) |
-| 🤖 [shinotbots](https://github.com/worztm/shinotbots) | Telegram bot for GitHub notifications — Cloudflare Worker + KV + cron |
-| 🌐 [web-tech-detector-web](https://github.com/worztm/web-tech-detector-web) | React + TypeScript port — live at [web-tech-detector.pages.dev](https://web-tech-detector.pages.dev) |
+### [JARVIS](https://github.com/worztm/jarvis) <sup>local voice assistant</sup>
 
----
+An Iron Man inspired desktop assistant that runs on-device. It combines `whisper.cpp`, a pure-Go intent router, Windows SAPI, and a live React HUD. It can understand natural commands, launch apps, search files, and navigate the web without sending speech to the cloud.
 
-## 📫 Reach Me
+<p>
+  <img src="https://img.shields.io/badge/AI-local-22d3ee?style=flat-square&labelColor=0f172a" alt="Local AI" />
+  <img src="https://img.shields.io/badge/Go-runtime-22c55e?style=flat-square&labelColor=0f172a" alt="Go runtime" />
+  <img src="https://img.shields.io/badge/Wails-desktop-facc15?style=flat-square&labelColor=0f172a" alt="Wails desktop" />
+</p>
 
-- Telegram: [@worztm](https://t.me/worztm)
-- X: [@worztm](https://x.com/worztm)
+### [wavecursor](https://github.com/worztm/wavecursor) <sup>gesture control</sup>
 
----
+A webcam-powered cursor controller. Hand tracking turns simple gestures into precise desktop controls, with no extra hardware required.
 
-*Currently: shipping apps weekly and looking for a remote role where I build products people actually use.*
+### [sharknote](https://github.com/worztm/sharknote) <sup>knowledge workspace</sup>
+
+An Obsidian-style notes app with a knowledge graph, backlinks, export, SQLite storage, and a focused desktop experience.
+
+### [cache_crusher](https://github.com/worztm/cache_crusher) <sup>disk cleaning, gamified</sup>
+
+A disk cleaner that turns reclaiming space into an arcade shooter. Scan junk, blast it safely, and watch the freed megabytes become your score.
+
+### [web-tech-detector](https://github.com/worztm/web-tech-detector) <sup>stack intelligence</sup>
+
+A practical scanner that detects the technologies behind a website and generates clean HTML reports.
+
+## More things I have shipped
+
+<p align="center">
+  <a href="https://github.com/worztm/pymusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=pymusic&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="pymusic repository card" /></a>
+  <a href="https://github.com/worztm/notepad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=notepad&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="notepad repository card" /></a>
+  <a href="https://github.com/worztm/reverse_tweets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=reverse_tweets&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="reverse tweets repository card" /></a>
+  <a href="https://github.com/worztm/shinotbots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=shinotbots&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="shinotbots repository card" /></a>
+</p>
+
+## Tools I reach for
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,rust,react,nextjs,nodejs,sqlite,solidity,cloudflare,git,github&perline=13" alt="Technologies: Go, TypeScript, JavaScript, Python, Rust, React, Next.js, Node.js, SQLite, Solidity, Cloudflare, Git, GitHub" />
+
+</div>
+
+## By the numbers
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=worztm&show_icons=true&hide_border=true&theme=transparent&title_color=22d3ee&text_color=94a3b8&icon_color=facc15&ring_color=22d3ee&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worztm&layout=compact&hide_border=true&theme=transparent&title_color=22d3ee&text_color=94a3b8&icon_color=facc15&langs_count=8" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worztm&theme=transparent&hide_border=true&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" alt="GitHub contribution streak" />
+</div>
+
+## Find me
+
+<div align="center">
+
+<a href="https://github.com/worztm"><img src="https://img.shields.io/badge/GitHub-worztm-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://t.me/worztm"><img src="https://img.shields.io/badge/Telegram-@worztm-0f172a?style=for-the-badge&logo=telegram&logoColor=22d3ee" alt="Telegram" /></a>
+<a href="https://x.com/worztm"><img src="https://img.shields.io/badge/X-@worztm-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+
+</div>
+
+<div align="center">
+
+### Currently shipping apps, learning in public, and looking for the next hard problem.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:1d4ed8,100:0f172a&height=120&section=footer&animation=fadeIn" alt="Profile footer" width="100%" />
+
+</div>
