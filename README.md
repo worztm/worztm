@@ -65,12 +65,13 @@ A practical scanner that detects the technologies behind a website and generates
 
 ## More things I have shipped
 
-<p align="center">
-  <a href="https://github.com/worztm/pymusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=pymusic&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="pymusic repository card" /></a>
-  <a href="https://github.com/worztm/notepad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=notepad&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="notepad repository card" /></a>
-  <a href="https://github.com/worztm/reverse_tweets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=reverse_tweets&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="reverse tweets repository card" /></a>
-  <a href="https://github.com/worztm/shinotbots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=worztm&repo=shinotbots&theme=transparent&hide_border=true&title_color=22d3ee&text_color=94a3b8&icon_color=facc15" alt="shinotbots repository card" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/worztm/pymusic"><img src="https://opengraph.githubassets.com/1/worztm/pymusic" width="46%" alt="pymusic repository preview" /></a>
+  <a href="https://github.com/worztm/notepad"><img src="https://opengraph.githubassets.com/1/worztm/notepad" width="46%" alt="notepad repository preview" /></a>
+  <br />
+  <a href="https://github.com/worztm/reverse_tweets"><img src="https://opengraph.githubassets.com/1/worztm/reverse_tweets" width="46%" alt="reverse tweets repository preview" /></a>
+  <a href="https://github.com/worztm/shinotbots"><img src="https://opengraph.githubassets.com/1/worztm/shinotbots" width="46%" alt="shinotbots repository preview" /></a>
+</div>
 
 ## Tools I reach for
 
@@ -83,12 +84,11 @@ A practical scanner that detects the technologies behind a website and generates
 ## By the numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=worztm&show_icons=true&hide_border=true&theme=transparent&title_color=22d3ee&text_color=94a3b8&icon_color=facc15&ring_color=22d3ee&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worztm&layout=compact&hide_border=true&theme=transparent&title_color=22d3ee&text_color=94a3b8&icon_color=facc15&langs_count=8" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=worztm&theme=github_dark" width="98%" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worztm&theme=transparent&hide_border=true&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=worztm&theme=github-dark-blue&hide_border=true&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" alt="GitHub contribution streak" />
 </div>
 
 ## Find me
