@@ -2,8 +2,6 @@
 
 > I build apps that people use every day: desktop apps, web apps, and automation tools.
 
-**Go · TypeScript · Python · Wails · React**
-
 I care about shipping finished products — native desktop apps, fast web tools, and automation that just works. Everything below is an app I designed, built, and released. Play with it, fork it, or send me a bug.
 
 ---
@@ -48,17 +46,6 @@ Detect the technologies behind any website and generate clean HTML reports.
 | 🌐 [web-tech-detector-web](https://github.com/worztm/web-tech-detector-web) | React + TypeScript port — live at [web-tech-detector.pages.dev](https://web-tech-detector.pages.dev) |
 
 ---
-
-## 🛠️ What I Work With
-
-| Area | Tools |
-|---|---|
-| Languages | Go, TypeScript, Python, JavaScript |
-| Desktop | Wails (v2/v3), WebView2, native Windows APIs |
-| Voice / AI | whisper.cpp, GGML, Windows SAPI |
-| Frontend | React, Vite |
-| Backend / Cloud | Cloudflare Workers, KV, serverless functions |
-| Systems | Windows internals (winmm, WM_CLOSE, process control), CI |
 
 ## 📫 Reach Me
 
