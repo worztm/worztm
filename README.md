@@ -43,7 +43,6 @@ Detect the technologies behind any website and generate clean HTML reports.
 |---|---|
 | 🎵 [pymusic](https://github.com/worztm/pymusic) | Native desktop music player — pure Python + Tkinter, dark neon glass theme, live visualizer |
 | 📝 [notepad](https://github.com/worztm/notepad) | Minimalist desktop markdown notepad — Wails v3 + Go + React + TypeScript |
-| 🎨 [m3e-canvas](https://github.com/worztm/m3e-canvas) | Sketch Material 3 screens in the browser and export them as build prompts |
 | 🐦 [reverse_tweets](https://github.com/worztm/reverse_tweets) | AI tweet roaster — live at [tweetsreverse.lol](https://tweetsreverse.lol) |
 | 🤖 [shinotbots](https://github.com/worztm/shinotbots) | Telegram bot for GitHub notifications — Cloudflare Worker + KV + cron |
 | 🌐 [web-tech-detector-web](https://github.com/worztm/web-tech-detector-web) | React + TypeScript port — live at [web-tech-detector.pages.dev](https://web-tech-detector.pages.dev) |
